@@ -36,7 +36,7 @@ release:
   draft: true
   disable: false
   github:
-    owner: oboukili
+    owner: jojand
     name: terraform-provider-argocd
 changelog:
   skip: false
